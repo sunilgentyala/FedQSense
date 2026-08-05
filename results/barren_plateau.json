@@ -1,0 +1,194 @@
+[
+  {
+    "n_layers": 1,
+    "n_qubits": 2,
+    "grad_variance": 0.04253204570482787,
+    "grad_variance_std_across_ref_params": 0.08506409140965535,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 1,
+    "n_qubits": 4,
+    "grad_variance": 0.026842337006487367,
+    "grad_variance_std_across_ref_params": 0.03287501458485999,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 1,
+    "n_qubits": 6,
+    "grad_variance": 0.0022282781392018135,
+    "grad_variance_std_across_ref_params": 0.0027290722230214073,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 1,
+    "n_qubits": 8,
+    "grad_variance": 0.00018657907338060298,
+    "grad_variance_std_across_ref_params": 0.00030577878610752097,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 1,
+    "n_qubits": 10,
+    "grad_variance": 2.7830455984088703e-05,
+    "grad_variance_std_across_ref_params": 3.466858642283413e-05,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 1,
+    "n_qubits": 12,
+    "grad_variance": 2.7302032761002592e-06,
+    "grad_variance_std_across_ref_params": 3.554114482709018e-06,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 2,
+    "n_qubits": 2,
+    "grad_variance": 0.09728640439962681,
+    "grad_variance_std_across_ref_params": 0.05541376077049188,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 2,
+    "n_qubits": 4,
+    "grad_variance": 0.02437640955995911,
+    "grad_variance_std_across_ref_params": 0.015563092289426626,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 2,
+    "n_qubits": 6,
+    "grad_variance": 0.002882070579847406,
+    "grad_variance_std_across_ref_params": 0.0035443830625341587,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 2,
+    "n_qubits": 8,
+    "grad_variance": 0.0017339100441841533,
+    "grad_variance_std_across_ref_params": 0.002240879999707851,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 2,
+    "n_qubits": 10,
+    "grad_variance": 0.0002500233890846672,
+    "grad_variance_std_across_ref_params": 0.0002929214551845135,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 2,
+    "n_qubits": 12,
+    "grad_variance": 8.86145298848453e-05,
+    "grad_variance_std_across_ref_params": 8.588533355644495e-05,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 3,
+    "n_qubits": 2,
+    "grad_variance": 0.10000365826511633,
+    "grad_variance_std_across_ref_params": 0.06387520665879057,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 3,
+    "n_qubits": 4,
+    "grad_variance": 0.018205189848265545,
+    "grad_variance_std_across_ref_params": 0.019289495224815982,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 3,
+    "n_qubits": 6,
+    "grad_variance": 0.013306814266744696,
+    "grad_variance_std_across_ref_params": 0.023879396049969876,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 3,
+    "n_qubits": 8,
+    "grad_variance": 0.0013877093186211924,
+    "grad_variance_std_across_ref_params": 0.0017691077146340891,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 3,
+    "n_qubits": 10,
+    "grad_variance": 0.00017835588776386125,
+    "grad_variance_std_across_ref_params": 0.00015748573931864993,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 3,
+    "n_qubits": 12,
+    "grad_variance": 8.216279365504411e-05,
+    "grad_variance_std_across_ref_params": 0.00013402085811917776,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 4,
+    "n_qubits": 2,
+    "grad_variance": 0.09423426086892507,
+    "grad_variance_std_across_ref_params": 0.053167156362644984,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 4,
+    "n_qubits": 4,
+    "grad_variance": 0.042871840623505325,
+    "grad_variance_std_across_ref_params": 0.009531968917343099,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 4,
+    "n_qubits": 6,
+    "grad_variance": 0.007504886408530381,
+    "grad_variance_std_across_ref_params": 0.003926949660068011,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 4,
+    "n_qubits": 8,
+    "grad_variance": 0.0007862882663161926,
+    "grad_variance_std_across_ref_params": 0.0010339000861396405,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 4,
+    "n_qubits": 10,
+    "grad_variance": 0.00022464475561270145,
+    "grad_variance_std_across_ref_params": 0.00019535774396512253,
+    "n_samples": 200,
+    "n_ref_params": 5
+  },
+  {
+    "n_layers": 4,
+    "n_qubits": 12,
+    "grad_variance": 5.837891599749477e-05,
+    "grad_variance_std_across_ref_params": 5.891911451060916e-05,
+    "n_samples": 200,
+    "n_ref_params": 5
+  }
+]

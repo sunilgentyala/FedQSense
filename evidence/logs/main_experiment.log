@@ -1,0 +1,40 @@
+Loaded 12 stations. Fog groups: {0: ['Dingling', 'Tiantan', 'Wanshouxigong'], 1: ['Huairou', 'Dongsi', 'Guanyuan'], 2: ['Changping', 'Gucheng', 'Aotizhongxin'], 3: ['Shunyi', 'Nongzhanguan', 'Wanliu']}
+[Q=4] PCA explained variance ratio: 0.8587
+[Q=4 seed=0] VQC done in 9.3s, final acc=0.504 f1=0.349 auc=0.520 params=25
+[Q=4 seed=0] MatchedMLP(h=4) done in 0.7s, final acc=0.729 f1=0.572 auc=0.849 params=25
+[Q=4 seed=1] VQC done in 9.1s, final acc=0.513 f1=0.363 auc=0.559 params=25
+[Q=4 seed=1] MatchedMLP(h=4) done in 0.7s, final acc=0.728 f1=0.569 auc=0.850 params=25
+[Q=4 seed=2] VQC done in 9.3s, final acc=0.576 f1=0.405 auc=0.691 params=25
+[Q=4 seed=2] MatchedMLP(h=4) done in 0.8s, final acc=0.738 f1=0.572 auc=0.850 params=25
+[Q=4 seed=3] VQC done in 9.1s, final acc=0.521 f1=0.402 auc=0.634 params=25
+[Q=4 seed=3] MatchedMLP(h=4) done in 0.7s, final acc=0.736 f1=0.575 auc=0.850 params=25
+[Q=4 seed=4] VQC done in 9.2s, final acc=0.618 f1=0.388 auc=0.658 params=25
+[Q=4 seed=4] MatchedMLP(h=4) done in 0.7s, final acc=0.738 f1=0.575 auc=0.852 params=25
+[Q=6] PCA explained variance ratio: 0.9337
+[Q=6 seed=0] VQC done in 13.6s, final acc=0.489 f1=0.380 auc=0.646 params=37
+[Q=6 seed=0] MatchedMLP(h=4) done in 0.7s, final acc=0.740 f1=0.587 auc=0.865 params=33
+[Q=6 seed=1] VQC done in 13.7s, final acc=0.493 f1=0.408 auc=0.676 params=37
+[Q=6 seed=1] MatchedMLP(h=4) done in 0.7s, final acc=0.743 f1=0.592 auc=0.866 params=33
+[Q=6 seed=2] VQC done in 13.6s, final acc=0.505 f1=0.426 auc=0.716 params=37
+[Q=6 seed=2] MatchedMLP(h=4) done in 0.8s, final acc=0.753 f1=0.596 auc=0.867 params=33
+[Q=6 seed=3] VQC done in 13.9s, final acc=0.490 f1=0.391 auc=0.682 params=37
+[Q=6 seed=3] MatchedMLP(h=4) done in 0.8s, final acc=0.738 f1=0.585 auc=0.866 params=33
+[Q=6 seed=4] VQC done in 13.4s, final acc=0.545 f1=0.404 auc=0.676 params=37
+[Q=6 seed=4] MatchedMLP(h=4) done in 0.7s, final acc=0.734 f1=0.582 auc=0.866 params=33
+[Q=8] PCA explained variance ratio: 0.9755
+[Q=8 seed=0] VQC done in 21.5s, final acc=0.519 f1=0.379 auc=0.643 params=49
+[Q=8 seed=0] MatchedMLP(h=5) done in 0.8s, final acc=0.748 f1=0.594 auc=0.864 params=51
+[Q=8 seed=1] VQC done in 21.5s, final acc=0.639 f1=0.403 auc=0.660 params=49
+[Q=8 seed=1] MatchedMLP(h=5) done in 0.8s, final acc=0.735 f1=0.585 auc=0.861 params=51
+[Q=8 seed=2] VQC done in 21.0s, final acc=0.664 f1=0.423 auc=0.664 params=49
+[Q=8 seed=2] MatchedMLP(h=5) done in 0.7s, final acc=0.752 f1=0.595 auc=0.864 params=51
+[Q=8 seed=3] VQC done in 21.3s, final acc=0.647 f1=0.411 auc=0.663 params=49
+[Q=8 seed=3] MatchedMLP(h=5) done in 0.7s, final acc=0.750 f1=0.596 auc=0.863 params=51
+[Q=8 seed=4] VQC done in 21.3s, final acc=0.596 f1=0.386 auc=0.631 params=49
+[Q=8 seed=4] MatchedMLP(h=5) done in 0.7s, final acc=0.748 f1=0.593 auc=0.867 params=51
+[FullFeatureMLP seed=0] done in 0.7s, final acc=0.743 f1=0.591 auc=0.870 params=209
+[FullFeatureMLP seed=1] done in 0.8s, final acc=0.741 f1=0.591 auc=0.873 params=209
+[FullFeatureMLP seed=2] done in 0.7s, final acc=0.743 f1=0.590 auc=0.872 params=209
+[FullFeatureMLP seed=3] done in 0.7s, final acc=0.736 f1=0.584 auc=0.867 params=209
+[FullFeatureMLP seed=4] done in 0.7s, final acc=0.738 f1=0.585 auc=0.868 params=209
+Total wall time: 236.2s

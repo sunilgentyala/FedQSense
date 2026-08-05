@@ -1,0 +1,27 @@
+{
+  "VQC_8q": {
+    "n_rounds": 25,
+    "mean_commit_latency_us": 18.344,
+    "total_commit_latency_ms": 0.9172,
+    "bytes_logged": 1600,
+    "chain_verified": true,
+    "n_params": 49
+  },
+  "FullFeatureMLP": {
+    "n_rounds": 25,
+    "mean_commit_latency_us": 11.012,
+    "total_commit_latency_ms": 0.5506,
+    "bytes_logged": 1600,
+    "chain_verified": true,
+    "n_params": 209
+  },
+  "tamper_trials": {
+    "n_trials": 1000,
+    "n_clean": 500,
+    "n_tampered": 500,
+    "false_reject": 0,
+    "false_accept": 0,
+    "clean_accept_rate": 1.0,
+    "tamper_detect_rate": 1.0
+  }
+}

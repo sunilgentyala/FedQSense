@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data_raw/
+data_raw.zip
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+
+# Manuscript under IEEE copyright once submitted/published -- not distributed
+# in this repository. Only source code, tests, and experimental artifacts are.
+paper/
