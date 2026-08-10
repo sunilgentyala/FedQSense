@@ -2,7 +2,7 @@
 
 # FedQSense
 
-### Hierarchical Federated Quantum Machine Learning for Communication-Efficient Smart-City Environmental Sensing over 6G: An Empirical Benchmark
+### Quantum Federated Learning for Communication-Efficient Smart-City Sensing over 6G
 
 [![GLOBECOM 2026 WS-02](https://img.shields.io/badge/IEEE%20GLOBECOM%202026-WS--02-blue?style=flat-square&logo=ieee)](https://github.com/sunilgentyala/FedQSense)
 [![Python 3.14](https://img.shields.io/badge/Python-3.14-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -189,9 +189,8 @@ pytest tests/ -v
 
 ```bibtex
 @inproceedings{gentyala2026fedqsense,
-  title     = {{FedQSense}: Hierarchical Federated Quantum Machine Learning for
-               Communication-Efficient Smart-City Environmental Sensing over {6G}
-               -- An Empirical Benchmark},
+  title     = {{FedQSense}: Quantum Federated Learning for
+               Communication-Efficient Smart-City Sensing over {6G}},
   author    = {Gentyala, Sunil and Shariff, Vahiduddin and Caprio, Floriano and
                Karumanchi, Mani Deep and Kasturi, Akhila},
   booktitle = {Proceedings of the IEEE Global Communications Conference (GLOBECOM)
