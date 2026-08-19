@@ -4,12 +4,22 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>FedQSense | IEEE GLOBECOM 2026 WS-02</title>
-<meta name="description" content="An empirical benchmark of hierarchical federated quantum machine learning for communication-efficient smart-city sensing over 6G." />
+<meta name="description" content="FedQSense: an empirical benchmark of quantum federated learning for communication-efficient smart-city sensing over 6G." />
 <meta property="og:title" content="FedQSense | IEEE GLOBECOM 2026 WS-02" />
 <meta property="og:description" content="Does quantum circuit compactness actually buy communication efficiency in federated 6G sensing? A controlled, honestly-reported benchmark on real data says: not yet, and here's why." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://sunilgentyala.github.io/FedQSense/" />
+<meta property="og:image" content="https://sunilgentyala.github.io/FedQSense/og-image.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="FedQSense | IEEE GLOBECOM 2026 WS-02" />
+<meta name="twitter:description" content="Does quantum circuit compactness actually buy communication efficiency in federated 6G sensing? A controlled, honestly-reported benchmark on real data says: not yet, and here's why." />
+<meta name="twitter:image" content="https://sunilgentyala.github.io/FedQSense/og-image.png" />
+<link rel="icon" href="favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png" />
+<link rel="icon" href="favicon-16.png" sizes="16x16" type="image/png" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
 <style>
@@ -90,6 +100,7 @@ nav {
 .btn-primary { background: var(--accent); color: #fff; }
 .btn-outline { background: transparent; color: var(--text); border: 1px solid var(--border); }
 .btn-outline:hover { border-color: var(--accent2); color: var(--accent2); }
+.author-list { display: flex; flex-wrap: wrap; gap: 1.5rem 2.25rem; }
 .author { font-size: .9rem; }
 .author strong { display: block; color: var(--text); }
 .author span { color: var(--muted); font-size: .8rem; }
@@ -186,9 +197,8 @@ footer a:hover { color: var(--text); }
     <div class="venue-badge">IEEE GLOBECOM 2026 &nbsp;|&nbsp; WS-02: Quantum ML for Next-Gen Networks</div>
 
     <h1 class="hero-title">
-      <em>FedQSense:</em> Hierarchical Federated Quantum Machine<br>
-      Learning for Communication-Efficient Smart-City<br>
-      Sensing over 6G: An Empirical Benchmark
+      <em>FedQSense:</em> Quantum Federated Learning for<br>
+      Communication-Efficient Smart-City Sensing over 6G
     </h1>
 
     <p class="hero-subtitle">
@@ -204,9 +214,27 @@ footer a:hover { color: var(--text); }
       <a href="#citation" class="btn btn-outline">Cite This Work</a>
     </div>
 
-    <div class="author">
-      <strong>Sunil Gentyala</strong>
-      <span>HCLTech &bull; IEEE Senior Member #101760715 &bull; CISM &bull; CCZT</span>
+    <div class="author-list">
+      <div class="author">
+        <strong>Sunil Gentyala</strong>
+        <span>HCLTech (HCL America Inc.), Dallas, TX, USA &bull; IEEE Senior Member #101760715 &bull; CISM &bull; CCZT</span>
+      </div>
+      <div class="author">
+        <strong>Vahiduddin Shariff</strong>
+        <span>Sir C R Reddy College of Engineering, Eluru, India</span>
+      </div>
+      <div class="author">
+        <strong>Floriano Caprio</strong>
+        <span>Universit&agrave; Campus Bio-Medico di Roma, Rome, Italy</span>
+      </div>
+      <div class="author">
+        <strong>Mani Deep Karumanchi</strong>
+        <span>Bapatla Engineering College, Bapatla, India</span>
+      </div>
+      <div class="author">
+        <strong>Akhila Kasturi</strong>
+        <span>HCLTech, Dallas, TX, USA</span>
+      </div>
     </div>
 
     <div class="metrics-strip">
@@ -422,10 +450,10 @@ python experiments/make_figures.py</pre>
     <div class="citation-block">
       <button class="copy-btn" onclick="copyBlock(this)">Copy</button>
       <pre>@inproceedings{gentyala2026fedqsense,
-  title     = {{FedQSense}: Hierarchical Federated Quantum Machine
-               Learning for Communication-Efficient Smart-City
-               Sensing over {6G} -- An Empirical Benchmark},
-  author    = {Gentyala, Sunil},
+  title     = {{FedQSense}: Quantum Federated Learning for
+               Communication-Efficient Smart-City Sensing over {6G}},
+  author    = {Gentyala, Sunil and Shariff, Vahiduddin and Caprio, Floriano and
+               Karumanchi, Mani Deep and Kasturi, Akhila},
   booktitle = {Proceedings of the IEEE Global Communications Conference
                (GLOBECOM) Workshops, WS-02: The Second Workshop on
                Quantum Machine Learning for Next-Generation Networks},
