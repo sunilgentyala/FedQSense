@@ -188,16 +188,13 @@ pytest tests/ -v
 ## Citation
 
 ```bibtex
-@inproceedings{gentyala2026fedqsense,
-  title     = {{FedQSense}: Quantum Federated Learning for
-               Communication-Efficient Smart-City Sensing over {6G}},
-  author    = {Gentyala, Sunil and Shariff, Vahiduddin and Caprio, Floriano and
-               Karumanchi, Mani Deep and Kasturi, Akhila},
-  booktitle = {Proceedings of the IEEE Global Communications Conference (GLOBECOM)
-               Workshops, WS-02: The Second Workshop on Quantum Machine Learning
-               for Next-Generation Networks},
-  year      = {2026},
-  publisher = {IEEE}
+@unpublished{gentyala2026fedqsense,
+  title  = {{FedQSense}: Quantum Federated Learning for
+            Communication-Efficient Smart-City Sensing over {6G}},
+  author = {Gentyala, Sunil and Shariff, Vahiduddin and Caprio, Floriano and
+            Karumanchi, Mani Deep and Kasturi, Akhila},
+  year   = {2026},
+  note   = {Manuscript submitted to IEEE GLOBECOM 2026 Workshops (WS-02); not yet published}
 }
 ```
 

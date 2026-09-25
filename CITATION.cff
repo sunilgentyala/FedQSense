@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: If you use this software in your research, please cite it as below.
+type: software
+title: FedQSense
+authors:
+- family-names: Gentyala
+  given-names: Sunil
+  affiliation: HCLTech (HCL America Inc.), Dallas, TX, USA
+  orcid: https://orcid.org/0009-0005-2642-3479
+  email: sunil.gentyala@ieee.org
+- family-names: Shariff
+  given-names: Vahiduddin
+- family-names: Caprio
+  given-names: Floriano
+- family-names: Karumanchi
+  given-names: Mani Deep
+- family-names: Kasturi
+  given-names: Akhila
+repository-code: https://github.com/sunilgentyala/FedQSense
+url: https://sunilgentyala.github.io/FedQSense/
+license: MIT
+abstract: Hierarchical federated quantum machine learning benchmark for communication-efficient
+  smart-city sensing over 6G (IEEE GLOBECOM 2026 WS-02)
+keywords:
+- 6g
+- barren-plateaus
+- federated-learning
+- ieee
+- pennylane
+- quantum-machine-learning
+- smart-city
+- variational-quantum-circuits
